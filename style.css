@@ -109,7 +109,7 @@ textarea {
     z-index: 3;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) (orientation: portrait) {
 
     .logo-mario {
         width: 150px;
