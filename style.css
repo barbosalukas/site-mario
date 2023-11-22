@@ -109,3 +109,28 @@ textarea {
     z-index: 3;
 }
 
+@media screen and (max-width: 600px) {
+
+    .logo-mario {
+        width: 150px;
+    }
+
+    .imagem-mario-luigui {
+        width: 200px;
+
+    }   
+    p {
+        font-size: 1em;
+        margin-left: 10px;
+
+    }
+
+    video {
+        min-height: 100%;
+        min-width: 100%;
+
+    }
+    }
+
+
+
